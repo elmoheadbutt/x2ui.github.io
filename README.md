@@ -1,4 +1,4 @@
-utopia-theme-default.github.io
+x2ui.github.io
 ==============================
 
-The default CSS theme of http://utopia-game.com
+UI for utopia game based on the movie Oblivion
